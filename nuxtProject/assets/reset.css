@@ -1,0 +1,23 @@
+body {
+    background-color: #86888e;
+    margin: 2rem;
+    max-width: 17rem;
+}
+
+h1 {
+    color: rgb(3, 56, 125);
+}
+
+h2 {
+    color: rgb(31, 47, 92);
+}
+
+section {
+    background-color: rgb(89, 238, 92);
+    padding: 0.5rem;
+}
+
+footer {
+    background-color: rgb(216, 153, 250);
+    padding: 0.1rem;
+}

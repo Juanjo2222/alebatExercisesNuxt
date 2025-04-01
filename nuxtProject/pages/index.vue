@@ -1,6 +1,9 @@
 <script setup lang="ts">
 const bienvenida = "Bienvenido a la home";
 const buttonTxt = "Ir a catálogos";
+definePageMeta({
+  layout: "default-layout",
+});
 </script>
 <template>
   <h1>{{ bienvenida }}</h1>
